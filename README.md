@@ -7,3 +7,4 @@ fizika
 informatika
 
   sahifam: [Github](https://github.com/ekinshinomer-wq)
+![rasm](rasm.png)
